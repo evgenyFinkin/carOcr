@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "408875732994",
+    "firebase_url": "https://carocr-c5edf.firebaseio.com",
+    "project_id": "carocr-c5edf",
+    "storage_bucket": "carocr-c5edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408875732994:android:f97d1ed9df118eef",
+        "android_client_info": {
+          "package_name": "com.example.jonfi.carocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408875732994-vdpg100tp0dj4o243ik1h6bgdieab2t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jonfi.carocr",
+            "certificate_hash": "1e2c8fa8b96cc913337441fc79605fd5991b2330"
+          }
+        },
+        {
+          "client_id": "408875732994-aja7kqvjkr9hl54hr9kinvhrk170ovb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4D9TrLjhxKObE1IjhzF_18NHu5mpvZX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408875732994-aja7kqvjkr9hl54hr9kinvhrk170ovb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
